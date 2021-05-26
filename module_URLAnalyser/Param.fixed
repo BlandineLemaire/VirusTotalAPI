@@ -1,0 +1,9 @@
+{
+  "ModuleName":"module_URLAnalyser",
+  "Version":"0.1",
+  "Description":"This module is used to analyse URLs over VirusTotal",
+  "Autheur":"Physhield",
+  "Mail":"contact@phishield.fr",
+  "IsCritical":1,
+  "Level":5
+}

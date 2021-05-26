@@ -1,0 +1,9 @@
+{
+  "Params":{
+    "APIKey" = "02c1226e3bd721ce2e3f3f5adeb1200bf2496db0aaee58ef77e45f0389c1ab60",
+    "urlPostForFILE" = "https://www.virustotal.com/vtapi/v2/file/scan",
+    "urlGetForFILE" = "https://www.virustotal.com/vtapi/v2/file/report",
+    # 0 to 100 as %
+    "SecurityPrecision":"5"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ModuleName":"module_FileAnalyser",
+  "Version":"0.1",
+  "Description":"This module is used to analyse files over VirusTotal",
+  "Autheur":"Physhield",
+  "Mail":"contact@phishield.fr",
+  "IsCritical":1,
+  "Level":5
+}
